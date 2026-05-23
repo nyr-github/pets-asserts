@@ -1,0 +1,477 @@
+{
+  "pet_type": "Brown Tabby and White Cat (with Deep Forest Green Eyes)",
+  "art_style_global": "Soft dense short fur texture, cute round face, deep forest green eyes, pink nose, white paws, warm studio lighting, clean solid pastel background, highly detailed, photorealistic digital art, masterpiece",
+  "growth_stages": [
+    {
+      "stage_id": 1,
+      "stage_name_cn": "新生朦胧期",
+      "stage_name_en": "Newborn Blindness",
+      "age_description": "刚出生0-2周，眼睛闭着，身体软糯",
+      "background_color": "solid light pink background",
+      "actions": [
+        {
+          "action_id": 1,
+          "action_name_cn": "香甜酣睡（默认静态）",
+          "action_name_en": "Sweet Sleep (Default)",
+          "prompt": "A tiny newborn brown tabby and white kitten, eyes completely closed, pink nose, sleeping curled up quietly. Soft dense short fur texture, deep forest green eyes closed, warm studio lighting, solid light pink background, highly detailed, clean background, no props, accompanied by faint sound of tiny rhythmic breathing."
+        },
+        {
+          "action_id": 2,
+          "action_name_cn": "掌心轻托",
+          "action_name_en": "Palm Holding",
+          "prompt": "A tiny newborn brown tabby and white kitten with closed eyes, resting completely in a human's gentle open palm, moving its tiny head slightly. Soft dense short fur texture, warm studio lighting, solid light pink background, highly detailed, clean background, accompanied by the sound of a soft, high-pitched newborn squeak.",
+          "video_url": "1-2.mp4"
+        },
+        {
+          "action_id": 3,
+          "action_name_cn": "指尖触碰",
+          "action_name_en": "Finger Touch",
+          "prompt": "A tiny newborn brown tabby and white kitten sleeping on its belly, a human index finger gently touching its tiny white paw, the kitten's toes twitching slightly in response. Soft dense short fur texture, warm studio lighting, solid light pink background, highly detailed, accompanied by a tiny, muffled purring sound."
+        },
+        {
+          "action_id": 4,
+          "action_name_cn": "吮吸奶嘴",
+          "action_name_en": "Nursing Bottle",
+          "prompt": "A tiny newborn brown tabby and white kitten with eyes closed, suckling on a tiny pet nursing bottle teat held by a human hand, its tiny paws kneading the air. Soft dense short fur texture, warm studio lighting, solid light pink background, highly detailed, accompanied by distinct wet suckling and swallowing sounds.",
+          "video_url": "1-4.mp4"
+        },
+        {
+          "action_id": 5,
+          "action_name_cn": "软萌翻身",
+          "action_name_en": "Soft Roll Over",
+          "prompt": "A tiny newborn brown tabby and white kitten slowly rolling over from its side onto its back, exposing its little pink belly, paws twitching softly in the air. Soft dense short fur texture, warm studio lighting, solid light pink background, highly detailed, clean background, accompanied by a short, soft whimper sound."
+        },
+        {
+          "action_id": 6,
+          "action_name_cn": "舒展小懒腰",
+          "action_name_en": "Tiny Stretch",
+          "prompt": "A tiny newborn brown tabby and white kitten extending its four tiny white legs in a slow, gentle stretch while keeping its eyes closed, mouth yawning slightly. Soft dense short fur texture, warm studio lighting, solid light pink background, highly detailed, clean background, accompanied by the sound of a tiny breathy yawn."
+        }
+      ],
+      "image_url": "1.png"
+    },
+    {
+      "stage_id": 2,
+      "stage_name_cn": "初睁蓝眸期",
+      "stage_name_en": "First Blink",
+      "age_description": "2-4周，刚睁开清澈的深森林绿眼睛，尝试趴着",
+      "background_color": "solid light blue background",
+      "actions": [
+        {
+          "action_id": 1,
+          "action_name_cn": "萌动凝视（默认静态）",
+          "action_name_en": "Curious Stare (Default)",
+          "prompt": "A very small brown tabby and white kitten lying on its belly, its big dark forest green eyes just opened wide, looking straight ahead with a misty, innocent expression. Soft dense short fur texture, pink nose, white paws, warm studio lighting, solid light blue background, highly detailed, clean background, no props, quiet background ambience."
+        },
+        {
+          "action_id": 2,
+          "action_name_cn": "指尖引逗",
+          "action_name_en": "Finger Tracking",
+          "prompt": "A very small brown tabby and white kitten lying down, its clear forest green eyes slowly tracking a human finger moving gently left and right in front of it. Soft dense short fur texture, warm studio lighting, solid light blue background, highly detailed, clean background, accompanied by the subtle rustling sound of a finger moving in the air.",
+          "video_url": "2-2.mp4"
+        },
+        {
+          "action_id": 3,
+          "action_name_cn": "下巴抚摸",
+          "action_name_en": "Chin Scratch",
+          "prompt": "A human finger gently scratching under the chin of a very small brown tabby and white kitten, the kitten tilting its head up slightly and squinting its deep forest green eyes in enjoyment. Soft dense short fur texture, warm studio lighting, solid light blue background, highly detailed, accompanied by a soft, steady kitten purr."
+        },
+        {
+          "action_id": 4,
+          "action_name_cn": "摇晃站立",
+          "action_name_en": "Wobbly Stand",
+          "prompt": "A very small brown tabby and white kitten trying to stand up on all four trembling white legs, wobbling slightly before sitting back down, looking around with large forest green eyes. Soft dense short fur texture, warm studio lighting, solid light blue background, highly detailed, accompanied by a quiet, soft thud as it sits back down.",
+          "video_url": "2-4.mp4"
+        },
+        {
+          "action_id": 5,
+          "action_name_cn": "温柔呼唤",
+          "action_name_en": "Responsive Meow",
+          "prompt": "A very small brown tabby and white kitten looking up toward a human hand near it, opening its tiny pink mouth to let out a silent, soft meow, forest green eyes wide. Soft dense short fur texture, warm studio lighting, solid light blue background, highly detailed, accompanied by a crisp, high-pitched 'mew' sound."
+        },
+        {
+          "action_id": 6,
+          "action_name_cn": "探头探脑",
+          "action_name_en": "Head Tilting",
+          "prompt": "A very small brown tabby and white kitten resting on its paws, slowly tilting its head from left to right as it stares curiously with its beautiful forest green eyes. Soft dense short fur texture, warm studio lighting, solid light blue background, highly detailed, accompanied by a soft puff of air from its nose."
+        }
+      ],
+      "image_url": "2.png"
+    },
+    {
+      "stage_id": 3,
+      "stage_name_cn": "蹒跚学步期",
+      "stage_name_en": "Toddling Fluff",
+      "age_description": "1个月，步态摇晃，毛发开始蓬松（参考图阶段）",
+      "background_color": "solid light yellow background",
+      "actions": [
+        {
+          "action_id": 1,
+          "action_name_cn": "乖巧伫立（默认静态）",
+          "action_name_en": "Sweet Standing (Default)",
+          "prompt": "A fluffy one-month-old brown tabby and white kitten standing on four short white legs, big deep forest green eyes looking curious, naive look, tail slightly raised. Soft dense short fur texture, pink nose, warm studio lighting, solid light yellow background, highly detailed, clean background, no props, background filled with soft ambient room silence."
+        },
+        {
+          "action_id": 2,
+          "action_name_cn": "蹒跚走近",
+          "action_name_en": "Toddling Forward",
+          "prompt": "A fluffy one-month-old brown tabby and white kitten taking unsteady, wobbly steps forward towards a human hand waiting on the ground, tail shaking gently. Soft dense short fur texture, deep forest green eyes, warm studio lighting, solid light yellow background, highly detailed, accompanied by very faint pattering sounds of tiny paws.",
+          "video_url": "3-2.mp4"
+        },
+        {
+          "action_id": 3,
+          "action_name_cn": "指尖轻嗅",
+          "action_name_en": "Finger Sniffing",
+          "prompt": "A fluffy one-month-old brown tabby and white kitten leaning its head forward, using its tiny pink nose to sniff an extended human finger, its forest green eyes blinking softly. Soft dense short fur texture, warm studio lighting, solid light yellow background, highly detailed, accompanied by audible rapid sniffing sounds."
+        },
+        {
+          "action_id": 4,
+          "action_name_cn": "逗趣抱指",
+          "action_name_en": "Finger Hugging",
+          "prompt": "A fluffy one-month-old brown tabby and white kitten sitting up on its hind legs, wrapping both of its tiny front white paws around a human finger, chewing gently. Soft dense short fur texture, forest green eyes, warm studio lighting, solid light yellow background, highly detailed, accompanied by a playful, tiny growling sound."
+        },
+        {
+          "action_id": 5,
+          "action_name_cn": "好奇侧歪头",
+          "action_name_en": "Curious Head Tilt",
+          "prompt": "A fluffy one-month-old brown tabby and white kitten sitting down, tilting its head drastically to one side while staring with large, bright forest green eyes at a hand moving just off-screen. Soft dense short fur texture, warm studio lighting, solid light yellow background, highly detailed, accompanied by a short, inquiring squeaky meow."
+        },
+        {
+          "action_id": 6,
+          "action_name_cn": "小尾巴乱颤",
+          "action_name_en": "Tail Wagging",
+          "prompt": "A fluffy one-month-old brown tabby and white kitten standing from behind, turning its head to look at the camera with forest green eyes, its short thin tail pointing up and twitching excitedly. Soft dense short fur texture, warm studio lighting, solid light yellow background, highly detailed, accompanied by a quick, excited chirp sound."
+        }
+      ],
+      "image_url": "3.png"
+    },
+    {
+      "stage_id": 4,
+      "stage_name_cn": "好奇探索期",
+      "stage_name_en": "Curious Explorer",
+      "age_description": "2个月，耳朵变大，充满好奇心地歪头",
+      "background_color": "solid light green background",
+      "actions": [
+        {
+          "action_id": 1,
+          "action_name_cn": "端正坐姿（默认静态）",
+          "action_name_en": "Attentive Sitting (Default)",
+          "prompt": "A cute 2-month-old brown tabby and white kitten sitting up straight, wide excited dark forest green eyes looking slightly upward, pink nose, white chest and paws. Soft dense short fur texture, warm studio lighting, solid light green background, highly detailed, clean background, no props, accompanied by a gentle, steady purring sound."
+        },
+        {
+          "action_id": 2,
+          "action_name_cn": "隔空抓扑",
+          "action_name_en": "Air Swatting",
+          "prompt": "A cute 2-month-old brown tabby and white kitten sitting on hind legs, raising one white front paw into the air, trying to swat at an invisible feather toy held above by a human. Soft dense short fur texture, green eyes, warm studio lighting, solid light green background, highly detailed, accompanied by a soft 'swoosh' sound of the paw hitting the air."
+        },
+        {
+          "action_id": 3,
+          "action_name_cn": "按压手掌",
+          "action_name_en": "Palm Stepping",
+          "prompt": "A cute 2-month-old brown tabby and white kitten placing its white front paws firmly onto a flat human palm resting on the ground, leaning its body weight forward. Soft dense short fur texture, deep forest green eyes, warm studio lighting, solid light green background, highly detailed, accompanied by a soft paw-tap sound against skin."
+        },
+        {
+          "action_id": 4,
+          "action_name_cn": "舒适顺毛",
+          "action_name_en": "Head Petting",
+          "prompt": "A human hand gently stroking the top of the head of a 2-month-old brown tabby and white kitten, the kitten narrowing its beautiful green eyes, flattening its ears slightly in deep comfort. Soft dense short fur texture, warm studio lighting, solid light green background, highly detailed, accompanied by loud, resonant purring."
+        },
+        {
+          "action_id": 5,
+          "action_name_cn": "活泼轻跳",
+          "action_name_en": "Little Hop",
+          "prompt": "A cute 2-month-old brown tabby and white kitten doing a small playful hop forward, all four white paws briefly leaving the ground, its forest green eyes filled with excitement. Soft dense short fur texture, warm studio lighting, solid light green background, highly detailed, accompanied by a bright, cheerful 'mrrip' chirp sound."
+        },
+        {
+          "action_id": 6,
+          "action_name_cn": "倒地耍赖",
+          "action_name_en": "Playful Flop",
+          "prompt": "A cute 2-month-old brown tabby and white kitten suddenly flopping onto its side in front of a human hand, rolling slightly to show its white belly, looking up with bright forest green eyes. Soft dense short fur texture, warm studio lighting, solid light green background, highly detailed, accompanied by a soft thud and an excited trill sound.",
+          "video_url": "4-6.mp4"
+        }
+      ],
+      "image_url": "4.png"
+    },
+    {
+      "stage_id": 5,
+      "stage_name_cn": "活泼幼猫期",
+      "stage_name_en": "Playful Kitten",
+      "age_description": "3个月，身体舒展开，动作敏捷，喜欢扑咬",
+      "background_color": "solid mint background",
+      "actions": [
+        {
+          "action_id": 1,
+          "action_name_cn": "蓄势待发（默认静态）",
+          "action_name_en": "Pouncing Ready (Default)",
+          "prompt": "An energetic 3-month-old brown tabby and white kitten in a playful crouching posture, hind legs ready to spring, big bright forest green eyes focused sharply forward, tail curved low. Soft dense short fur texture, pink nose, white paws, warm studio lighting, solid mint background, highly detailed, clean background, no props, silent tense background with rapid tail swishing sound."
+        },
+        {
+          "action_id": 2,
+          "action_name_cn": "猛烈飞扑",
+          "action_name_en": "Active Pounce",
+          "prompt": "An energetic 3-month-old brown tabby and white kitten mid-leap, launching its body forward into the air towards a human hand extending from off-screen, white paws outstretched. Soft dense short fur texture, forest green eyes, warm studio lighting, solid mint background, highly detailed, accompanied by a sharp, playful kitten growl.",
+          "video_url": "5-2.mp4"
+        },
+        {
+          "action_id": 3,
+          "action_name_cn": "激情咬指",
+          "action_name_en": "Playful Nibble",
+          "prompt": "An energetic 3-month-old brown tabby and white kitten playfully grappling and nibbling a human finger with its mouth, its front white paws holding the hand firmly. Soft dense short fur texture, deep forest green eyes squinting, warm studio lighting, solid mint background, highly detailed, accompanied by soft chewing and excited breathing sounds."
+        },
+        {
+          "action_id": 4,
+          "action_name_cn": "疯狂兔子踢",
+          "action_name_en": "Bunny Kicks",
+          "prompt": "An energetic 3-month-old brown tabby and white kitten lying on its back, hugging a human wrist with its front white paws while rapidly kicking with its hind legs in play. Soft dense short fur texture, forest green eyes, warm studio lighting, solid mint background, highly detailed, accompanied by the sound of rapid fur friction and a low playful rasp."
+        },
+        {
+          "action_id": 5,
+          "action_name_cn": "机警躲闪",
+          "action_name_en": "Playful Dodge",
+          "prompt": "An energetic 3-month-old brown tabby and white kitten darting its head back and twisting its body agilely to dodge a human hand that is gently trying to tickle it. Soft dense short fur texture, wide forest green eyes, warm studio lighting, solid mint background, highly detailed, accompanied by a sharp, surprised 'meow!'."
+        },
+        {
+          "action_id": 6,
+          "action_name_cn": "高高站立",
+          "action_name_en": "Tall Meerkats Stand",
+          "prompt": "An energetic 3-month-old brown tabby and white kitten standing fully erect on its hind white legs, balancing itself, front white paws dangling in the air as it looks up high with deep forest green eyes. Soft dense short fur texture, warm studio lighting, solid mint background, highly detailed, accompanied by an inquisitive, sweet trilling sound."
+        }
+      ],
+      "image_url": "5.png"
+    },
+    {
+      "stage_id": 6,
+      "stage_name_cn": "快速换毛期",
+      "stage_name_en": "Fluffy Growth",
+      "age_description": "4-5个月，毛发变得更浓密，体型明显变大",
+      "background_color": "solid light lavender background",
+      "actions": [
+        {
+          "action_id": 1,
+          "action_name_cn": "文雅端坐（默认静态）",
+          "action_name_en": "Elegant Sitting (Default)",
+          "prompt": "A growing 5-month-old brown tabby and white cat sitting elegantly, looking directly at the camera with a sweet smile, thick and chubby face, deep forest green eyes. Soft dense short fur texture, pink nose, white paws, warm studio lighting, solid light lavender background, highly detailed, clean background, no props, accompanied by a soft, warm and relaxed purr."
+        },
+        {
+          "action_id": 2,
+          "action_name_cn": "双手合十作揖",
+          "action_name_en": "Begging Paws",
+          "prompt": "A growing 5-month-old brown tabby and white cat sitting on its hind legs, bringing its two front white paws together near its chest, moving them up and down as if begging a human for food. Soft dense short fur texture, forest green eyes, warm studio lighting, solid light lavender background, highly detailed, accompanied by a sweet, demanding 'meow'."
+        },
+        {
+          "action_id": 3,
+          "action_name_cn": "脸颊蹭手",
+          "action_name_en": "Cheek Rubbing",
+          "prompt": "A growing 5-month-old brown tabby and white cat enthusiastically rubbing its round cheek against an extended human hand, its forest green eyes closed in deep satisfaction. Soft dense short fur texture, warm studio lighting, solid light lavender background, highly detailed, accompanied by a continuous, deep purring sound."
+        },
+        {
+          "action_id": 4,
+          "action_name_cn": "高傲击掌",
+          "action_name_en": "High Five",
+          "prompt": "A growing 5-month-old brown tabby and white cat lifting one white front paw high to press its pad directly against an open human hand in a perfect high five posture. Soft dense short fur texture, intelligent forest green eyes, warm studio lighting, solid light lavender background, highly detailed, accompanied by a clean, soft 'smack' sound of paw pads hitting a palm."
+        },
+        {
+          "action_id": 5,
+          "action_name_cn": "慵懒翻滚",
+          "action_name_en": "Lazy Roll",
+          "prompt": "A growing 5-month-old brown tabby and white cat slowly rolling its chubby body from side to side on the floor, blinking its deep forest green eyes lazily at the human observer. Soft dense short fur texture, warm studio lighting, solid light lavender background, highly detailed, accompanied by a relaxed, long cat sigh.",
+          "video_url": "6-5.mp4"
+        },
+        {
+          "action_id": 6,
+          "action_name_cn": "清理毛发",
+          "action_name_en": "Grooming Paw",
+          "prompt": "A growing 5-month-old brown tabby and white cat licking its white front paw with its tiny pink tongue, then wiping its round face, looking up briefly with clear forest green eyes. Soft dense short fur texture, warm studio lighting, solid light lavender background, highly detailed, accompanied by rhythmic, soft licking and fur-brushing sounds."
+        }
+      ],
+      "image_url": "6.png"
+    },
+    {
+      "stage_id": 7,
+      "stage_name_cn": "半熟少年期",
+      "stage_name_en": "Adolescent Cat",
+      "age_description": "6-8个月，体型稍微修长，展现傲娇神态",
+      "background_color": "solid light coral background",
+      "actions": [
+        {
+          "action_id": 1,
+          "action_name_cn": "傲娇回眸（默认静态）",
+          "action_name_en": "Proud Glance (Default)",
+          "prompt": "A sleek 7-month-old teenage brown tabby and white cat sitting up straight with a slightly proud expression, looking over its shoulder at the camera with sharp forest green eyes. Soft dense short fur texture, pink nose, white boots, warm studio lighting, solid light coral background, highly detailed, clean background, no props, accompanied by a short, dismissive puff of air from its nose."
+        },
+        {
+          "action_id": 2,
+          "action_name_cn": "嫌弃推开",
+          "action_name_en": "Paw Push Away",
+          "prompt": "A sleek 7-month-old teenage brown tabby and white cat using one white front paw to firmly push away an approaching human finger, turning its face aside with an amused, tsundere look. Soft dense short fur texture, forest green eyes, warm studio lighting, solid light coral background, highly detailed, accompanied by a low, disgruntled short meow."
+        },
+        {
+          "action_id": 3,
+          "action_name_cn": "下巴搭手",
+          "action_name_en": "Chin Rest",
+          "prompt": "A human hand forms a cup shape, and the sleek 7-month-old teenage brown tabby and white cat slowly lowers its round chin to rest heavily inside the palm, staring with calm forest green eyes. Soft dense short fur texture, warm studio lighting, solid light coral background, highly detailed, accompanied by an instant, soft rumbling purr."
+        },
+        {
+          "action_id": 4,
+          "action_name_cn": "傲慢踩踏",
+          "action_name_en": "Stepping Over",
+          "prompt": "A sleek 7-month-old teenage brown tabby and white cat confidently walking right over a human hand resting on the floor, stepping its white paws directly on the fingers with a regal air. Soft dense short fur texture, forest green eyes looking down, warm studio lighting, solid light coral background, highly detailed, accompanied by a smug, confident chirrup sound.",
+          "video_url": "7-4.mp4"
+        },
+        {
+          "action_id": 5,
+          "action_name_cn": "尾巴轻拍",
+          "action_name_en": "Tail Thumping",
+          "prompt": "A sleek 7-month-old teenage brown tabby and white cat lying down facing away from a human hand, its long tabby tail rhythmically and playfully thumping the floor near the hand. Soft dense short fur texture, forest green eyes looking sideways, warm studio lighting, solid light coral background, highly detailed, accompanied by rhythmic, dull 'thud-thud' sounds of the tail hitting the ground."
+        },
+        {
+          "action_id": 6,
+          "action_name_cn": "惊奇跳动",
+          "action_name_en": "Startled Side-Hop",
+          "prompt": "A sleek 7-month-old teenage brown tabby and white cat arching its back slightly and doing a playful side-hop away as a human finger gently pokes its side, ears perked up. Soft dense short fur texture, wide forest green eyes, warm studio lighting, solid light coral background, highly detailed, accompanied by a sharp, sudden cat gasp or high squeak."
+        }
+      ],
+      "image_url": "7.png"
+    },
+    {
+      "stage_id": 8,
+      "stage_name_cn": "青涩成年期",
+      "stage_name_en": "Young Adult",
+      "age_description": "9-12个月，开始喜欢农民揣（收起手脚趴着）",
+      "background_color": "solid light cream background",
+      "actions": [
+        {
+          "action_id": 1,
+          "action_name_cn": "标准猫窝（默认静态）",
+          "action_name_en": "Classic Loaf (Default)",
+          "prompt": "A beautiful young adult brown tabby and white cat lying down gracefully with its white paws tucked completely under its chest in a perfect loaf position, calm and happy forest green eyes. Soft dense short fur texture, pink nose, warm studio lighting, solid light cream background, highly detailed, clean background, no props, accompanied by a very deep, soothing, continuous purr."
+        },
+        {
+          "action_id": 2,
+          "action_name_cn": "舒适踩奶",
+          "action_name_en": "Kneading Motion",
+          "prompt": "A beautiful young adult brown tabby and white cat standing on a human's lap, rhythmically pushing its front white paws in and out in a kneading motion, purring with half-closed forest green eyes. Soft dense short fur texture, warm studio lighting, solid light cream background, highly detailed, accompanied by loud vocal purrings and the soft scratching sound of fabric."
+        },
+        {
+          "action_id": 3,
+          "action_name_cn": "歪头杀蹭手",
+          "action_name_en": "Head Nudge",
+          "prompt": "A beautiful young adult brown tabby and white cat forcefully nudging the side of its head against a human hand, closing its eyes in pure bliss, showing its white neck fur. Soft dense short fur texture, forest green eyes, warm studio lighting, solid light cream background, highly detailed, accompanied by a sweet, affectionate throat trill."
+        },
+        {
+          "action_id": 4,
+          "action_name_cn": "主动握手",
+          "action_name_en": "Handshake",
+          "prompt": "A beautiful young adult brown tabby and white cat sitting down, calmly lifting its white front paw and placing it directly into an open human finger for a gentle handshake. Soft dense short fur texture, serene forest green eyes, warm studio lighting, solid light cream background, highly detailed, accompanied by a polite, soft and low 'mew'."
+        },
+        {
+          "action_id": 5,
+          "action_name_cn": "翻滚露肚皮",
+          "action_name_en": "Belly Reveal",
+          "prompt": "A beautiful young adult brown tabby and white cat rolling onto its back, spreading its legs out wide to show its soft fluffy white belly, inviting a human hand to touch it. Soft dense short fur texture, bright forest green eyes, warm studio lighting, solid light cream background, highly detailed, accompanied by a happy, gurgling roll-purr sound."
+        },
+        {
+          "action_id": 6,
+          "action_name_cn": "深沉哈欠",
+          "action_name_en": "Big Yawn",
+          "prompt": "A beautiful young adult brown tabby and white cat sitting up, opening its mouth extremely wide in a huge, satisfying yawn, curling its pink tongue, then squinting its forest green eyes. Soft dense short fur texture, warm studio lighting, solid light cream background, highly detailed, accompanied by a squeaky, high-pitched vocalization at the peak of the yawn."
+        }
+      ],
+      "image_url": "8.png"
+    },
+    {
+      "stage_id": 9,
+      "stage_name_cn": "魅力成猫期",
+      "stage_name_en": "Mature Companion",
+      "age_description": "1岁-2岁，颜值巅峰，坐姿端庄自信",
+      "background_color": "solid warm beige background",
+      "actions": [
+        {
+          "action_id": 1,
+          "action_name_cn": "王者坐姿（默认静态）",
+          "action_name_en": "Majestic Sitting (Default)",
+          "prompt": "A majestic and handsome adult brown tabby and white cat sitting majestically upright, thick glossy tabby fur, big intelligent deep forest green eyes, white chest and four white boots, exuding absolute confidence. Soft dense short fur texture, pink nose, warm studio lighting, solid warm beige background, highly detailed, clean background, no props, accompanied by a steady, low-frequency kingly purr."
+        },
+        {
+          "action_id": 2,
+          "action_name_cn": "深情慢眨眼",
+          "action_name_en": "Slow Blink of Love",
+          "prompt": "A majestic adult brown tabby and white cat sitting close, staring deeply into the camera with its stunning forest green eyes, then slowly closing and opening them in a loving slow-blink gesture. Soft dense short fur texture, warm studio lighting, solid warm beige background, highly detailed, accompanied by a soft, affectionate breath exhale."
+        },
+        {
+          "action_id": 3,
+          "action_name_cn": "霸道按手",
+          "action_name_en": "Dominant Paw Place",
+          "prompt": "A human tries to place their hand on top of the cat's paw, but the majestic adult brown tabby and white cat smoothly and deliberately pulls its white paw out and places it back on top of the human hand. Soft dense short fur texture, forest green eyes, warm studio lighting, solid warm beige background, highly detailed, accompanied by a deep, authoritative trill sound."
+        },
+        {
+          "action_id": 4,
+          "action_name_cn": "温柔贴头杀",
+          "action_name_en": "Forehead Bunt",
+          "prompt": "A majestic adult brown tabby and white cat leaning forward to gently press its forehead directly against a human's hand or forehead, closing its forest green eyes in deep trust. Soft dense short fur texture, warm studio lighting, solid warm beige background, highly detailed, accompanied by a sudden, intense burst of deep vibrating purring."
+        },
+        {
+          "action_id": 5,
+          "action_name_cn": "优雅伸展",
+          "action_name_en": "Elegant Yoga Stretch",
+          "prompt": "A majestic adult brown tabby and white cat performing a deep, graceful stretch, extending its front legs forward with chest low to the ground, keeping its wise forest green eyes fixed on the human. Soft dense short fur texture, warm studio lighting, solid warm beige background, highly detailed, accompanied by a satisfying, deep cat sigh."
+        },
+        {
+          "action_id": 6,
+          "action_name_cn": "轻摇尾巴尖",
+          "action_name_en": "Subtle Tail Twitch",
+          "prompt": "A majestic adult brown tabby and white cat sitting peacefully, its long beautiful tabby tail wrapped perfectly around its white paws, with only the very tip of the tail twitching rhythmically. Soft dense short fur texture, forest green eyes, warm studio lighting, solid warm beige background, highly detailed, accompanied by a soft, rhythmic swishing sound against fur."
+        }
+      ],
+      "image_url": "9.png"
+    },
+    {
+      "stage_id": 10,
+      "stage_name_cn": "至尊圆满期",
+      "stage_name_en": "Golden Age",
+      "age_description": "成年后期，体态圆润肥美，眯眼享受",
+      "background_color": "solid soft gold background",
+      "actions": [
+        {
+          "action_id": 1,
+          "action_name_cn": "福气满堂（默认静态）",
+          "action_name_en": "Chubby Bliss (Default)",
+          "prompt": "A chubby and happy mature adult brown tabby and white cat sitting comfortably, extra fluffy round cheeks, squinting its deep forest green eyes with a blissful expression, looking incredibly soft, round and full of peace. Soft dense short fur texture, pink nose, white paws, warm studio lighting, solid soft gold background, highly detailed, clean background, no props, accompanied by a very loud, resonant, old-cat heavy purr."
+        },
+        {
+          "action_id": 2,
+          "action_name_cn": "极致双手揉脸",
+          "action_name_en": "Double Cheek Massage",
+          "prompt": "Two human hands are gently massaging the extra fluffy, chubby round cheeks of a mature adult brown tabby and white cat, making its face shape change comically, cat squints its forest green eyes in ultimate satisfaction. Soft dense short fur texture, warm studio lighting, solid soft gold background, highly detailed, accompanied by a muffled, blissful grunting sound.",
+          "video_url": "10-2.mp4"
+        },
+        {
+          "action_id": 3,
+          "action_name_cn": "沉稳抱臂",
+          "action_name_en": "Hug the Arm",
+          "prompt": "A chubby mature adult brown tabby and white cat sitting down, wrapping its thick, soft front white legs completely around a human forearm, resting its heavy head on it with closed eyes. Soft dense short fur texture, warm studio lighting, solid soft gold background, highly detailed, accompanied by a deep, slow, rhythmic purring that vibrates."
+        },
+        {
+          "action_id": 4,
+          "action_name_cn": "满足咕噜叹气",
+          "action_name_en": "Blissful Purr",
+          "prompt": "A chubby mature adult brown tabby and white cat sitting down, its chest and belly expanding slowly as it breathes, its mouth slightly upturned in a happy smile, forest green eyes half-closed in absolute contentment. Soft dense short fur texture, warm studio lighting, solid soft gold background, highly detailed, accompanied by a long, heavy, contented sigh ending in a quiet snore."
+        },
+        {
+          "action_id": 5,
+          "action_name_cn": "肥美翻身揣",
+          "action_name_en": "Heavy Loaf Adjust",
+          "prompt": "A very chubby mature adult brown tabby and white cat slowly adjusting its sitting position, lifting its heavy body slightly to tuck its white paws deeper underneath into an ultra-round loaf shape. Soft dense short fur texture, forest green eyes, warm studio lighting, solid soft gold background, highly detailed, accompanied by a soft, heavy shuffling sound and a brief grump-purr.",
+          "video_url": "10-5.mp4"
+        },
+        {
+          "action_id": 6,
+          "action_name_cn": "睡眼惺忪眨",
+          "action_name_en": "Sleepy Blinks",
+          "prompt": "A chubby mature adult brown tabby and white cat lying down, its head nodding slightly with sleepiness, slowly opening and closing its intelligent forest green eyes as it watches a human hand sitting beside it. Soft dense short fur texture, warm studio lighting, solid soft gold background, highly detailed, accompanied by very slow, sleepy blinking breathing sounds and a tiny, intermittent whistle snore."
+        }
+      ],
+      "image_url": "10.png"
+    }
+  ]
+}
